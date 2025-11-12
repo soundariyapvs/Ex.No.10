@@ -5,7 +5,7 @@ Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 ## Reg. No. 212222060249
 
 ## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+## To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
 
 ## Procedure:
 1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
